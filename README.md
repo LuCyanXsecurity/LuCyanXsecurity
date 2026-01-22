@@ -1,6 +1,14 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there
+<div align="center">
 
-I'm **LuCyan**, a **Security Researcher** and **Bug Hunter**. With a strong passion for technology and expertise in vulnerability assessment, my goal is to safeguard digital assets.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm LuCyan
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Security+Researcher;Bug+Hunter;Pentester;OSINT+Specialist;Malware+Analyst&font=Fira+Code&center=true&width=500&height=50&color=00f2ff&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+</a>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Welcome to my digital playground** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+---
 
 ```
 LuCyanXsecurity
