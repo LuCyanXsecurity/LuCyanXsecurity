@@ -95,7 +95,7 @@ I'm **[`LuCyan`](https://github.com/LuCyanXsecurity)**, a hacker & Security Rese
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![LuCyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuCyanXsecurity&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/LuCyanXsecurity/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LuCyanXsecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuCyanXsecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/LuCyanXsecurity/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCyanXsecurity&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
